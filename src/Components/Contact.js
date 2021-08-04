@@ -102,6 +102,8 @@ const Contact = ({ data }) => {
                 ></textarea>
               </div>
 
+          
+
               <div>
                 <button onClick={submitForm} type="submit" className="submit">
                   Submit
