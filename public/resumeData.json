@@ -94,6 +94,12 @@
         "url": "https://tassiahospital.netlify.app/"
       },
       {
+        "title": "AirBnB Clone",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://airbnbclone-ashy.vercel.app/"
+      },
+      {
         "title": "Twitter Clone (React JS)",
         "category": "",
         "image": "tw.jpg",
